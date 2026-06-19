@@ -93,8 +93,6 @@ elevator-braking-control-system/
 3. **Update the pin numbers** at the top of the file to match your wiring
 4. Flash to your ESP32 and power the motor driver separately
 
-> ⚠️ Pin numbers in this firmware were reconstructed from the project's technical report and may need adjustment to match your exact build.
-
 ## 📄 Full Report
 
 See [`docs/Elevator_Braking_Control_System_Report.docx`](docs/Elevator_Braking_Control_System_Report.docx) for the complete technical write-up, including pin tables, function reference, and safety system details.
