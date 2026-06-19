@@ -99,9 +99,16 @@ See [`docs/Elevator_Braking_Control_System_Report.docx`](docs/Elevator_Braking_C
 
 ## 👥 Team
 
-- [Name 1]
-- [Name 2]
-- [Name 3]
+- Zeyad Sayed
+- Khaled Mahmoud
+- Ahmed Nagdy
+- Saed Sakr
+- Heba Elsayed
+- Joulie Amgad
+- Sama Waleed
+- Geisal Taha
+- Reem Mohamed
+- Basmala Ahmed
 
 ---
 *Electric Drives — Mechatronics Engineering, Helwan National University*
